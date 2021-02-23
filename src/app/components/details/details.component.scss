@@ -1,0 +1,21 @@
+@media (min-width: 768px ) {
+    .row {
+        position: relative;
+    }
+  
+    .bottom-align-text {
+      position: absolute;
+      bottom: 0;
+      
+    }
+  }
+
+  .text-color{
+    color: #025e73;
+}
+
+.btn-personalized{
+    background-color: #025e73;
+    color: #ffffff;
+    float: right;
+}
